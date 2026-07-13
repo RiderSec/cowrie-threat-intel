@@ -6,7 +6,7 @@ Honeypot deployed on a public VPS to capture real world attack data, using a loc
 
 ## Infrastructure
 
-<img width="1031" height="681" alt="INFRA" src="https://github.com/user-attachments/assets/5950e73a-47ad-4e8a-920f-e0ee1ca167b8" />
+<img width="699" height="493" alt="Screenshot_2" src="https://github.com/user-attachments/assets/d06f709f-5892-4ec8-aad9-738e6707eac2" />
 
 ## Project phases
 
