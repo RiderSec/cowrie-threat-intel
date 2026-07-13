@@ -12,7 +12,7 @@ Honeypot deployed on a public VPS to capture real world attack data, using a loc
 
 1. Setting up local VM.
 2. Setting up Cowrie on VPS.
-3. 48 hours later, OpenTaxii, Python script.
+3. 48 hours later, Elastic dashboard.
 4. Conclusions.
 
 
